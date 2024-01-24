@@ -2,7 +2,3 @@ Flask
 gunicorn
 sqlalchemy
 flask_sqlalchemy
-render_template
-request
-redirect
-url_for
